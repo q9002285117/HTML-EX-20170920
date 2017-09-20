@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddafd70d-f457-4dd6-ae14-c5241882a2a0" name="chun web" url="http://120.108.117.245/~105021038/">
+        <fileTransfer host="120.108.117.245" port="22" rootFolder="/home/105021038/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
